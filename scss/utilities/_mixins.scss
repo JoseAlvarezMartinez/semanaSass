@@ -1,0 +1,5 @@
+@mixin textosBasicos($colorTexto,$tamanioTexto,$centradoTexto) {
+    color: $colorTexto;
+    font-size: $tamanioTexto;
+    text-align: $centradoTexto;
+}

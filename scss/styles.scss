@@ -1,0 +1,9 @@
+@import "./base/variables";
+@import "./utilities/mixins";
+@import "./layout/header";
+@import "./utilities/extends";
+@import "./components/navbar";
+
+body{
+    background-color: $colorBackground;
+}

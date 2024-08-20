@@ -1,0 +1,10 @@
+ul{
+    list-style: none;
+    @extend %flexActivacion;
+    li{
+        a{
+            text-decoration: none;
+            color:$colorBlanco;
+        }
+    }
+}
